@@ -44,7 +44,7 @@ Before running this application, make sure you have the following installed:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/codeshare.git
+git clone https://github.com/SowmyaKurapati26/codeshare.git
 cd codeshare
 ```
 
@@ -196,10 +196,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Socket.IO](https://socket.io/) for real-time communication
 - [Tailwind CSS](https://tailwindcss.com/) for styling
 
-## 📞 Support
+## 📫 Contact
 
-If you have any questions or need help, please open an issue on GitHub or contact the maintainers.
+For questions, contributions, or collaboration, feel free to reach out:
 
----
+**📧 Email:** kurapatisowmya1@gmail.com
 
-Made with ❤️ by [Your Name] 
+Made with ❤️ by Sowmya Kurapati.
